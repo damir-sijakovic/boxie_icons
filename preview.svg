@@ -19,34 +19,6 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4154">
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#Checkerboard"
-       id="pattern3153"
-       patternTransform="matrix(10,0,0,10,4.2860852e-6,4.680333e-7)" />
-    <pattern
-       inkscape:collect="always"
-       patternUnits="userSpaceOnUse"
-       width="2"
-       height="2"
-       patternTransform="translate(0,0) scale(10,10)"
-       id="Checkerboard"
-       inkscape:stockid="Checkerboard">
-      <rect
-         style="fill:black;stroke:none"
-         x="0"
-         y="0"
-         width="1"
-         height="1"
-         id="rect2147" />
-      <rect
-         style="fill:black;stroke:none"
-         x="1"
-         y="1"
-         width="1"
-         height="1"
-         id="rect2149" />
-    </pattern>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath46882">
@@ -336,9 +308,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="561.44277"
+     inkscape:cx="551.54327"
      inkscape:cy="345.0681"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -392,22 +364,14 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="matrix(1.06667,0,0,1.06667,188.20708,35.195821)"
-     sodipodi:insensitive="true">
+     transform="matrix(1.06667,0,0,1.06667,188.20708,35.195821)">
     <rect
-       style="opacity:0.604684;fill:url(#pattern3153);fill-opacity:1;stroke:none;stroke-width:1.87499;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.553056"
-       id="rect1088"
-       width="1052.3589"
-       height="744.09216"
-       x="-176.44359"
-       y="-32.995979" />
-    <rect
-       style="opacity:0.604684;fill:#000000;fill-opacity:0.411507;stroke:none;stroke-width:1.87499;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.553056"
+       style="opacity:0.604684;fill:#76428a;fill-opacity:1;stroke:none;stroke-width:1.87499;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.553056"
        id="rect3071"
        width="1052.3589"
        height="744.09216"
-       x="-176.44359"
-       y="-32.995979" />
+       x="-176.44356"
+       y="-32.995995" />
   </g>
   <g
      inkscape:groupmode="layer"
