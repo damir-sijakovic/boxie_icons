@@ -1,8 +1,8 @@
-# Boxie - Aros Iconset
+# Boxie - Aros Iconset with retro vibe
 
 ## What is it?
 
-Source of SVG images that are compiled into Aros icon '.info' files. 
+SVG images that are compiled into Aros icon '.info' files. 
 
 ## Why do it like this?
 
@@ -19,5 +19,8 @@ with compiled icons. You will need BASH terminal.
 Project is using famous dawnbringer32 palette. Palette for Inkscape is included
 in project.
 
+# Requirements
+
+ImageMagick
 
 Have fun!
