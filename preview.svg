@@ -308,9 +308,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="551.54327"
+     inkscape:cx="541.64378"
      inkscape:cy="345.0681"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -361,22 +361,16 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     transform="matrix(1.06667,0,0,1.06667,188.20708,35.195821)">
-    <rect
-       style="opacity:0.604684;fill:#76428a;fill-opacity:1;stroke:none;stroke-width:1.87499;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.553056"
-       id="rect3071"
-       width="1052.3589"
-       height="744.09216"
-       x="-176.44356"
-       y="-32.995995" />
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
+    <rect
+       style="opacity:1;fill:#182533;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.553056;fill-opacity:1"
+       id="rect1253"
+       width="1122.5197"
+       height="793.70081"
+       x="0"
+       y="0" />
     <path
        inkscape:connector-curvature="0"
        id="path6332"
