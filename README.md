@@ -1,5 +1,7 @@
 # Boxie - Aros Iconset with retro vibe
 
+![Alt text](./preview.svg)
+
 ## What is it?
 
 SVG images that are compiled into Aros icon '.info' files. 
